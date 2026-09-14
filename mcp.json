@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "github-repo-search": {
+      "type": "stdio",
+      "command": "${workspaceFolder}/.venv/bin/python",
+      "args": ["${workspaceFolder}/server.py"]
+    }
+  }
+}

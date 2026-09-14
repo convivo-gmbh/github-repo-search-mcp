@@ -1,0 +1,11 @@
+A client needs a mobile CRM to manage customers, leads, 
+sales opportunities, tasks, and activities, with sales tracking 
+and dashboard reporting.
+Do we already have something similar that we can use as a 
+starting point? And who can help us create an MVP for this?
+
+1.  “What repos do we have and what’s our tech stack?”   → resources + list_org_repos
+2.  “Have we implemented live draw application anywhere? fetch the code.”   → search_code
+3.  “Where is this class used across our projects?”   → find_usages
+4.  “Who worked on the svg live drawing?”   → search_commits
+5.  “Fetch that file and explain how it works.”   → get_file_content
